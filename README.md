@@ -9,3 +9,4 @@ It includes details about the tips given to restaurant staff, such as the total 
 ## 2. Source
 Link of data: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv 
 There are total 8 columns with the data type like below:
+<img src="https://github.com/DuyenHuynh/restaurant_tips/blob/main/restaurant_data_info.png" width="200" style="display: block; margin: 50px auto;">
